@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name: WP Stream Product Stock Connector
- * Description: Logs product stock changes via WP Stream.
+ * Plugin Name: Stream Product Stock Connector
+ * Description: Logs product stock changes via Stream.
  * Author: Tuna Traffic
  * Author URI: https://tunatraffic.com
  * Version: 1.0
