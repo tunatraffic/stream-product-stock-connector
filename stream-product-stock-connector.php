@@ -18,4 +18,4 @@ function register_connector($connectors)
 
 	return $connectors;
 }
-add_filter('wp_stream_connectors', __NAMESPACE__ . '/register_connector');
+add_filter('wp_stream_connectors', __NAMESPACE__ . '\\register_connector');
