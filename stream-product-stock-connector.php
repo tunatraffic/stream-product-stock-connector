@@ -6,6 +6,8 @@
  * Author URI: https://tunatraffic.com
  * Version: 1.0
  * Requires PHP: 7.0
+ *
+ * GitHub Plugin URI: tunatraffic/stream-product-stock-connector
  */
 
 namespace TunaTraffic\Stream;
